@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R type -d  751 ./
+chmod 751 -R .
