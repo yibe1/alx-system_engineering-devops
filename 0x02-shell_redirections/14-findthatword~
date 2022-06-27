@@ -1,0 +1,2 @@
+#!/bin/bash
+grep --include=\root -rnw '/etc/passwd' -e "pattern"
