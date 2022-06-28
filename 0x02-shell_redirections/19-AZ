@@ -1,2 +1,2 @@
 #!/bin/bash
-read x|echo $x| sed 's/A/c/g; s/Z/e/g'
+read x|sed 's/A/c/g; s/Z/e/g'
